@@ -1,0 +1,9 @@
+{
+  "name": "api-test",
+  "private": true,
+  "version": "1.0.0",
+  "workspaces": [
+    "./TauriExp",
+    "tauri"
+  ]
+}
