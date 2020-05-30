@@ -1,0 +1,12 @@
+{
+  "name": "tauri-api-exp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:ken0x0a/rs-tauri-api-test.git",
+  "author": "Ken <2770219+ken0x0a@users.noreply.github.com>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "tauri": "0.6.2"
+  }
+}
